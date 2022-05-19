@@ -3,12 +3,12 @@ entries:
   echo:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-05-19T21:12:26.811963337+09:00"
+    created: "2022-05-19T21:50:50.7443892+09:00"
     description: A Helm chart for Kubernetes
     digest: 2ed5185c1a6aa6e6c70be0716233c9b6946f35ffc8896c1e25552e3a0c1849a6
     name: echo
     type: application
     urls:
-    - echo-0.1.0.tgz
+    - https://k1m500m1n.github.io/my-stable/echo-0.1.0.tgz
     version: 0.1.0
-generated: "2022-05-19T21:12:26.811061307+09:00"
+generated: "2022-05-19T21:50:50.742634418+09:00"
